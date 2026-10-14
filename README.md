@@ -8,8 +8,7 @@ as a Home Screen app and opens without a connection.
 
 ## Use it on your iPhone
 
-Once the site is published (see **Publish with GitHub Pages** below), its address is
-`https://<your-github-username>.github.io/dexbinder/`.
+Live app: <https://rulokx.github.io/dexbinder/> (published from `main` by GitHub Actions).
 
 1. Open that address in **Safari**.
 2. Tap **Share** → **Add to Home Screen** → **Add**.
